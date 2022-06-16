@@ -8,3 +8,4 @@
 4. Best Time to Buy and Sell Stock - (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 5. Valid Palindrome - (https://leetcode.com/problems/valid-palindrome/)
 6. Valid Anagram - (https://leetcode.com/problems/valid-anagram/)
+7. Binary Search - (https://leetcode.com/problems/binary-search/)

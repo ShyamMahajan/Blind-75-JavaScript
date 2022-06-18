@@ -9,3 +9,4 @@
 5. Valid Palindrome - (https://leetcode.com/problems/valid-palindrome/)
 6. Valid Anagram - (https://leetcode.com/problems/valid-anagram/)
 7. Binary Search - (https://leetcode.com/problems/binary-search/)
+8. Invert Binary Tree - (https://leetcode.com/problems/invert-binary-tree/)

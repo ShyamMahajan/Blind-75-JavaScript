@@ -11,3 +11,4 @@
 7. Binary Search - (https://leetcode.com/problems/binary-search/)
 8. Invert Binary Tree - (https://leetcode.com/problems/invert-binary-tree/)
 9. Maximum Subarray - (https://leetcode.com/problems/maximum-subarray/)
+10. Contains Duplicate - (https://leetcode.com/problems/contains-duplicate/)

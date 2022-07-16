@@ -15,3 +15,4 @@
 11. Product of Array Except Self - (https://leetcode.com/problems/product-of-array-except-self/)
 12. Maximum Product Subarray - (https://leetcode.com/problems/maximum-product-subarray/)
 13. Find Minimum in Rotated Sorted Array - (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+14. Search in Rotated Sorted Array - (https://leetcode.com/problems/search-in-rotated-sorted-array/)

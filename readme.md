@@ -22,3 +22,4 @@
 18. Minimum Window Substring - (https://leetcode.com/problems/minimum-window-substring/)
 19. Group Anagrams - (https://leetcode.com/problems/group-anagrams/)
 20. Longest Palindromic Substring - (https://leetcode.com/problems/longest-palindromic-substring/)(R)
+21. Palindromic Substrings - (https://leetcode.com/problems/palindromic-substrings/)(R)

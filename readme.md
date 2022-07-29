@@ -23,3 +23,4 @@
 19. Group Anagrams - (https://leetcode.com/problems/group-anagrams/)
 20. Longest Palindromic Substring - (https://leetcode.com/problems/longest-palindromic-substring/)(R)
 21. Palindromic Substrings - (https://leetcode.com/problems/palindromic-substrings/)(R)
+22. Longest Repeating Character Replacement - (https://leetcode.com/problems/longest-repeating-character-replacement/)(R)

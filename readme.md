@@ -24,4 +24,4 @@
 20. Longest Palindromic Substring - (https://leetcode.com/problems/longest-palindromic-substring/)(R)
 21. Palindromic Substrings - (https://leetcode.com/problems/palindromic-substrings/)(R)
 22. Longest Repeating Character Replacement - (https://leetcode.com/problems/longest-repeating-character-replacement/)(R)
-23.
+23. Reverse Linked List - (https://leetcode.com/problems/reverse-linked-list/)(R)

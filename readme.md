@@ -30,3 +30,4 @@
 26. Reorder List - (https://leetcode.com/problems/reorder-list/)(R)
 27. Merge k Sorted Lists - (https://leetcode.com/problems/merge-k-sorted-lists/)(R)
 28. Same Tree - (https://leetcode.com/problems/same-tree/) (R)
+29. Maximum Depth of Binary Tree - (https://leetcode.com/problems/maximum-depth-of-binary-tree/)

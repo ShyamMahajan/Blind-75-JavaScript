@@ -32,3 +32,4 @@
 28. Same Tree - (https://leetcode.com/problems/same-tree/) (R)
 29. Maximum Depth of Binary Tree - (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 30. Binary Tree Maximum Path Sum - (https://leetcode.com/problems/binary-tree-maximum-path-sum/) (H)
+31. Binary Tree Level Order Traversal - (https://leetcode.com/problems/binary-tree-level-order-traversal/) (M)

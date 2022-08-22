@@ -34,3 +34,4 @@
 30. Binary Tree Maximum Path Sum - (https://leetcode.com/problems/binary-tree-maximum-path-sum/) (H)
 31. Binary Tree Level Order Traversal - (https://leetcode.com/problems/binary-tree-level-order-traversal/) (M)
 32. Subtree of Another Tree - (https://leetcode.com/problems/subtree-of-another-tree/) (E)
+Validate Binary Search Tree - (https://leetcode.com/problems/validate-binary-search-tree/) (M)

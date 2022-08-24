@@ -36,3 +36,4 @@
 32. Subtree of Another Tree - (https://leetcode.com/problems/subtree-of-another-tree/) (E)
 33. Validate Binary Search Tree - (https://leetcode.com/problems/validate-binary-search-tree/) (M)
 34. Lowest Common Ancestor of a Binary Search Tree - (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (E)
+35. Kth Smallest Element in a BST - (https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (M)

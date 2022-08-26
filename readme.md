@@ -38,3 +38,4 @@
 34. Lowest Common Ancestor of a Binary Search Tree - (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (E)
 35. Kth Smallest Element in a BST - (https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (M)
 36. Design Add and Search Words Data Structure - (https://leetcode.com/problems/design-add-and-search-words-data-structure/) (M)
+37. Construct Binary Tree from Preorder and Inorder Traversal - (https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (M)
